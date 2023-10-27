@@ -1,0 +1,10 @@
+.link {
+	text-align: center;
+	font-family: 'Titillium Web', sans-serif;
+	margin-top: 40px;
+	text-decoration: none;
+	color: black;
+}
+a:hover {
+	color : blue;
+}

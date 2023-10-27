@@ -1,0 +1,9 @@
+.btn-blue {
+	background-color: rgb(29,25,172);
+	padding: 15px 20px;
+	border-radius:  4px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Titillium Web', sans-serif;
+	width: 100px;
+}
